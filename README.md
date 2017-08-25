@@ -12,9 +12,9 @@ and supports automatic removal (if asked)
 Node.js Compatibility
 ---------------------
 
-Supports v0.10.0+.
+Supports v4.0.0
 
-[![Build Status](https://travis-ci.org/bruce/node-temp.png)](https://travis-ci.org/bruce/node-temp)
+[![Build Status](https://travis-ci.org/DavidLemarier/node-temp.png)](https://travis-ci.org/DavidLemarier/node-temp)
 
 Please let me know if you have problems running it on a later version of Node.js or
 have platform-specific problems.
@@ -27,7 +27,7 @@ Install it using [npm](http://github.com/isaacs/npm):
     $ npm install temp
 
 Or get it directly from:
-http://github.com/bruce/node-temp
+http://github.com/DavidLemarier/node-temp
 
 Synopsis
 --------
@@ -278,10 +278,10 @@ Contributing
 ------------
 
 You can find the repository at:
-http://github.com/bruce/node-temp
+http://github.com/DavidLemarier/node-temp
 
 Issues/Feature Requests can be submitted at:
-http://github.com/bruce/node-temp/issues
+http://github.com/DavidLemarier/node-temp/issues
 
 I'd really like to hear your feedback, and I'd love to receive your
 pull-requests!
@@ -289,5 +289,5 @@ pull-requests!
 Copyright
 ---------
 
-Copyright (c) 2010-2014 Bruce Williams. This software is licensed
-under the MIT License, see LICENSE for details.
+Copyright (c) 2010-2017 Bruce Williams & David Lemarier.
+This software is licensed under the MIT License, see LICENSE for details.

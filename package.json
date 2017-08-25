@@ -1,5 +1,5 @@
 {
-  "name": "temp",
+  "name": "temp2",
   "description": "Temporary files and directories",
   "tags": [
     "temporary",
@@ -10,18 +10,15 @@
     "tmpdir",
     "security"
   ],
-  "version": "0.8.3",
-  "author": "Bruce Williams <brwcodes@gmail.com>",
+  "version": "0.1.0",
+  "author": "Bruce Williams <brwcodes@gmail.com> and David Lemarier <david@lemarier.ca>",
   "license": "MIT",
   "directories": {
     "lib": "lib"
   },
-  "engines": [
-    "node >=0.8.0"
-  ],
+  "engines": ["node >=4.0.0"],
   "main": "./lib/temp",
   "dependencies": {
-    "os-tmpdir": "^1.0.0",
     "rimraf": "~2.2.6"
   },
   "keywords": [
